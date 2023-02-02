@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"kp.service","c":"KpService","l":"isSimple()"},{"p":"kp.service","c":"KpService","l":"launch()"}];updateSearchResults();

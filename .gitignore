@@ -1,0 +1,15 @@
+.settings/
+.project
+target/
+service/.settings
+service/target
+service/.classpath
+service/.project
+service-client/.settings
+service-client/target
+service-client/.classpath
+service-client/.project
+service-provider/.settings
+service-provider/target
+service-provider/.classpath
+service-provider/.project
